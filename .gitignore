@@ -1,0 +1,8 @@
+
+# locals
+bin/
+obj/
+
+
+# IDE
+.idea/
